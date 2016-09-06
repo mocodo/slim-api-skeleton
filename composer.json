@@ -1,5 +1,6 @@
 {
   "name": "mocodo/slim-api-skeleton",
+  "type": "project",
   "license": "MIT",
   "authors": [
     {
